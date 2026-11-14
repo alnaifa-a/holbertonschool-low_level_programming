@@ -31,4 +31,6 @@ char *cap_string(char *);
 
 char *leet(char *);
 
+char *_memset(char *s, char b, unsigned int n);
+
 #endif
